@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+    <DAM>
+        <Alumnos>
+            <Nombre Datos_Alumno="Ana Fernández Gutiérrez" Nif="16965696L" Teléfono="789654321" email="ana.fdezgtrrez@hotmail.com" direccion="C/ El Percebe, 13 de Santander" CP="39302"><Modulos Lenguaje_de-marcas="-----" Sistemas_de_Gestión="----" Faltas_de_asistencia="0"> </Modulos> </Nombre> 
+
+            <Nombre Datos_Alumno="Pepito Grillo" Nif="987654321H" Teléfono="656566555" email="yhyh@yahoo.com" direccion="Avd El Pez, 5 de Suances" CP="39401"><Modulos Lenguaje_de-marcas="Apto" Sistemas_de_Gestión="Apto" Faltas_de_asistencia="0"> </Modulos>  </Nombre> 
+        </Alumnos>
+    </DAM>

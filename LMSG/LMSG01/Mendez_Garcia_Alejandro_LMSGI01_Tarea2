@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+    <receta>
+        <sopa_cebolla>
+            <ingredientes>
+                <lista>
+                    <Cebollas>1KG</Cebollas>
+                    <caldo_carne>2L</caldo_carne>
+                    <cucharadas_harina>1</cucharadas_harina>
+                    <Queso>
+                        <variante1><queso_emmental>100gr</queso_emmental></variante1>
+                        <variante2><queso_gruyere_rayado>100gr</queso_gruyere_rayado></variante2>
+                    </Queso>
+                    <pan_tostado>rebanados a peticion cliente</pan_tostado>
+                    <tomillo>Cantidad variable al chef</tomillo>
+                    <pimienta>Cantidad variable al chef</pimienta>
+                    <hojas_laurel>1</hojas_laurel>
+                </lista>
+            </ingredientes>
+                <pasos>
+                <paso1 text="Pelar y partir las cebollas en rodajas finas"></paso1>
+                <paso2 text="Rehogarlas con la mantequilla, sal y pimienta a fuego lento hasta que estén transparentes sin dorarse"></paso2>
+                <paso3 text="Añadir la harina sin dejar de remover"></paso3>
+                <paso4 text="Ponerlo en una cazuela con el caldo, el tomillo y el laurel"></paso4>
+                <paso5 text="Dejar cocer a fuego lento durante unos 15 minutos"></paso5>
+                <paso6 text="Poner las rebanadas de pan encima, espolvorear el queso y gratinar al horno"></paso6>
+            </pasos>
+        </sopa_cebolla>
+    </receta>

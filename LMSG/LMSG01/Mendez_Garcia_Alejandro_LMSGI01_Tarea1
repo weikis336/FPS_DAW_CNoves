@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+    <agenda>
+        <contacto>
+            <nombre>"Jorge Javier"</nombre>
+            <apellido>"Vazquez"</apellido>
+            <direccion>"telecirco en salvame"</direccion>
+            <telefonos>
+                <telcasa>"956465345"</telcasa>
+                <telmovil>"623515245"</telmovil>
+                <teltrabajo>"689218963"</teltrabajo>
+            </telefonos>
+        </contacto>
+        <contacto>
+            <nombre>"Arsène"</nombre>
+            <apellido>"Lupin"</apellido>
+            <direccion>"Calle Ave Maria purisima"</direccion>
+            <telefonos>
+                <telcasa>"987562546"</telcasa>
+                <telmovil>"652414525"</telmovil>
+                <teltrabajo>"953212530"</teltrabajo>
+            </telefonos>
+        </contacto>
+</agenda>
